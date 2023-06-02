@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-02T09:24:11 IST" name="Suite" finished-at="2023-06-02T09:24:17 IST" duration-ms="6453">
+    <groups>
+    </groups>
+    <test started-at="2023-06-02T09:24:11 IST" name="Test" finished-at="2023-06-02T09:24:17 IST" duration-ms="6453">
+      <class name="Location_Test_Package.Location_Test_Class">
+        <test-method signature="execute()[pri:0, instance:Location_Test_Package.Location_Test_Class@76908cc0]" started-at="2023-06-02T09:24:11 IST" name="execute" finished-at="2023-06-02T09:24:17 IST" duration-ms="6372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- Location_Test_Package.Location_Test_Class -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
